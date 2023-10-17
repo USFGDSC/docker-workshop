@@ -1,1 +1,1 @@
-# docker-workshop
+# Docker Workshop
