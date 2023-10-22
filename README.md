@@ -28,7 +28,6 @@ COPY . .
 
 EXPOSE 3000
 
-# The command that will run our app when the container starts
 CMD ["node", "server.js"]
 ```
 ```
